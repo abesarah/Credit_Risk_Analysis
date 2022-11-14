@@ -2,7 +2,7 @@
 ![ ](/Resources/nathan-dumlao-lvWw_G8tKsk-unsplash.jpg)
 
 ### Purpose:
-Using the credit card credit dataset, the data is oversampled using the RandomOverSampler and SMOTE algorithms, and undersampled using the ClusterCentroids algorithm. Then, a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, are used to predict credit risk. 
+Using a credit card credit dataset, the data is oversampled using the RandomOverSampler and SMOTE algorithms, and undersampled using the ClusterCentroids algorithm. Then, a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, are used to predict credit risk. 
 
 ### Technologies Used: 
 -	Python
